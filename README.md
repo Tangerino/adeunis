@@ -27,3 +27,16 @@ If you got an error opening the serial port, please try to issue the following c
 
 Please adapt the device name to match the existing in your system. Look at the /dev folder.
 
+The project is better viewd in Netbeas IDE.
+
+To build the project just run
+
+<pre>
+$make all
+</pre>
+
+To run the program type:
+
+<pre>
+    $adeunis /dev/ttyACM0
+</pre>
