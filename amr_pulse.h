@@ -1,10 +1,15 @@
-
-/* 
- * File:   amr_decode.h
- * Author: Carlos Tangerino <carlos.tangerino@gmail.com>
- *
- * Created on April 30, 2017, 7:44 AM
- */
+ /*************************************************************************\
+ *                                                                         *
+ *  Copyright (c) 1999-2017 Carlos Tangerino (carlos.tangerino@gmail.com)  *
+ *                                                                         *
+ *           +--------------------------------------------+                *
+ *           |     EDGE - Data Logger & Control Device    |                *
+ *           |           http://tangerino.me              |                *
+ *           |  WIMD.IO - IoT Data Repository & Services  |                *
+ *           |             https://wimd.io                |                *
+ *           +--------------------------------------------+                *
+ *                                                                         *
+ \**************************************************************************/
 
 #ifndef AMR_DECODE_H
 #define AMR_DECODE_H

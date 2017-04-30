@@ -1,4 +1,15 @@
-
+ /*************************************************************************\
+ *                                                                         *
+ *  Copyright (c) 1999-2017 Carlos Tangerino (carlos.tangerino@gmail.com)  *
+ *                                                                         *
+ *           +--------------------------------------------+                *
+ *           |     EDGE - Data Logger & Control Device    |                *
+ *           |           http://tangerino.me              |                *
+ *           |  WIMD.IO - IoT Data Repository & Services  |                *
+ *           |             https://wimd.io                |                *
+ *           +--------------------------------------------+                *
+ *                                                                         *
+ \**************************************************************************/
 
 #include <stdio.h>
 #include <string.h>
