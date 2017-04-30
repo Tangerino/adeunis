@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=amr_pulse
+PROJECTNAME=adeunis
 
 # Active Configuration
 DEFAULTCONF=Debug

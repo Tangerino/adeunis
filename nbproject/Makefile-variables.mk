@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-Linux
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux
-CND_ARTIFACT_NAME_Debug=amr_pulse
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/amr_pulse
+CND_ARTIFACT_NAME_Debug=adeunis
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/adeunis
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux/package
-CND_PACKAGE_NAME_Debug=amrpulse.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/amrpulse.tar
+CND_PACKAGE_NAME_Debug=adeunis.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/adeunis.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-Linux
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux
-CND_ARTIFACT_NAME_Release=amr_pulse
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/amr_pulse
+CND_ARTIFACT_NAME_Release=adeunis
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/adeunis
 CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux/package
-CND_PACKAGE_NAME_Release=amrpulse.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/amrpulse.tar
+CND_PACKAGE_NAME_Release=adeunis.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/adeunis.tar
 #
 # include compiler specific variables
 #
